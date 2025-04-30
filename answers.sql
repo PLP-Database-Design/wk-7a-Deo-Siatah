@@ -1,3 +1,4 @@
+# 📝 Assignment: Database Design and Normalization
 WITH NormalizedProducts AS (
   SELECT 
     101 AS OrderID, 'John Doe' AS CustomerName, 'Laptop' AS Product
